@@ -1,0 +1,34 @@
+{
+  "name": "negate",
+  "version": "1.0.0",
+  "description": "negates a function",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^3.0.3"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "negate",
+    "function",
+    "functional",
+    "fn",
+    "standalone"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattdesl/negate.git"
+  },
+  "homepage": "https://github.com/mattdesl/negate",
+  "bugs": {
+    "url": "https://github.com/mattdesl/negate/issues"
+  }
+}
